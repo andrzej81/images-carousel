@@ -2,6 +2,8 @@
 
 used packages: images-carousel
 
+![screenshot 1](1a.jpg)
+
 ### `yarn start`
 
 Runs the app in the development mode.\
